@@ -1,0 +1,26 @@
+{
+  "name": "travisandmongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Greta741@github.com/Greta741/travisAndMongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greta741/travisAndMongodb/issues"
+  },
+  "homepage": "https://github.com/Greta741/travisAndMongodb#readme",
+  "description": "",
+  "dependencies": {
+    "code": "^3.0.2",
+    "mongodb": "^2.2.9"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
